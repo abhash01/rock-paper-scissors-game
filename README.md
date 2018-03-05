@@ -1,7 +1,4 @@
 # rock-paper-scissors-game
-
-
-
 from random import randint
 
 player = input('rock (r),paper (p),scissors (s)')
